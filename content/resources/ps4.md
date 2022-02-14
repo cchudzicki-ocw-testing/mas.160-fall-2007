@@ -4,7 +4,12 @@ description: Problem set on simple psychoacoustic masking, Markoff processes, en
   and grading, entropy coding, error correction, and data compression.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007/bc45046e3a8daad2bd8361f7f09ef8dc_ps4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Problem Set 4
+type: OCWFile
 uid: bc45046e-3a8d-aad2-bd83-61f7f09ef8dc
 ---

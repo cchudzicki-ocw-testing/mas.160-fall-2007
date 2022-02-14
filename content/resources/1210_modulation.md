@@ -4,7 +4,12 @@ description: Lecture notes on amplitude modulation, frequency modulation, and di
   modulation.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007/7df297c0c228664dad6391e7c325cbbf_1210_modulation.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: Modulation
+type: OCWFile
 uid: 7df297c0-c228-664d-ad63-91e7c325cbbf
 ---
