@@ -15,6 +15,7 @@ image_metadata:
   image-alt: Diagram of Huffman Coding for phrase 'How much wood can a woodchuck chuck?'
     overlaid on photo of various iPods.
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: Diagram of Huffman Coding for phrase 'How much wood can a woodchuck chuck?'
   overlaid on photo of various iPods
