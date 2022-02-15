@@ -18,6 +18,5 @@ learning_resource_types: []
 resourcetype: Image
 title: Diagram of Huffman Coding for phrase 'How much wood can a woodchuck chuck?'
   overlaid on photo of various iPods
-type: OCWImage
 uid: 204a83fb-05fb-da8b-af44-8b1a7f44f0e7
 ---

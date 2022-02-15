@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Error-Correcting Codes
-type: OCWFile
 uid: 94144b6c-c83d-f4be-a4f9-cef22c91baf4
 ---
