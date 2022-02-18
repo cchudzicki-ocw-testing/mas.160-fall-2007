@@ -122,7 +122,7 @@ Definition of orthogonality; Walsh functions and other basis sets; discrete Four
 
 {{< tdclose >}}
 {{< tdopen >}}
-Notes on basis functions ([PDF]({{< baseurl >}}/resources/0919_basis))
+Notes on basis functions ({{< resource_link c9d17ae8-2425-e19a-0a68-764e96b8a60c "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -214,7 +214,7 @@ Discrete channels with noise; continuous channels; error detection and correctio
 
 Shannon and Weaver, pp. 65-80.
 
-Handout on error-correcting codes ([PDF]({{< baseurl >}}/resources/1017_error))
+Handout on error-correcting codes ({{< resource_link 94144b6c-c83d-f4be-a4f9-cef22c91baf4 "PDF" >}})
 
 
 {{< tdclose >}}
@@ -362,11 +362,11 @@ MSY 8.1-8.5
 
 Notes from prior years
 
-Z-transforms: part I ([PDF]({{< baseurl >}}/resources/1121_zx1))
+Z-transforms: part I ({{< resource_link 3554d860-cdff-c578-1821-592e9d99dba3 "PDF" >}})
 
-Z-transforms: part II ([PDF]({{< baseurl >}}/resources/1121_zx2))
+Z-transforms: part II ({{< resource_link 9d171c9c-6ead-6c73-7391-369c0ae6395a "PDF" >}})
 
-Partial fraction expansion ([PDF]({{< baseurl >}}/resources/1121_partial_fra))
+Partial fraction expansion ({{< resource_link e1d0af0a-fe69-7e8f-48bf-2b582508fb67 "PDF" >}})
 
 
 {{< tdclose >}}
@@ -460,7 +460,7 @@ Real-world modulation and demodulation methods; spread-spectrum
 
 {{< tdclose >}}
 {{< tdopen >}}
-Notes on modulation ([PDF]({{< baseurl >}}/resources/1210_modulation))
+Notes on modulation ({{< resource_link 7df297c0-c228-664d-ad63-91e7c325cbbf "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
