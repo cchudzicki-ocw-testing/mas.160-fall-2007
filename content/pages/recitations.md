@@ -27,7 +27,7 @@ TOPICS
 R1
 {{< tdclose >}}
 {{< tdopen >}}
-Sinusoids and complex exponentials ({{< resource_link 834c29a4-6b7c-89e0-4e41-8eab2f07448b "PDF - 1.1 MB" >}})
+Sinusoids and complex exponentials ({{% resource_link 834c29a4-6b7c-89e0-4e41-8eab2f07448b "PDF - 1.1 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -38,9 +38,9 @@ R2
 {{< tdopen >}}
 
 
-Periodic waveforms, fourier series ({{< resource_link 66c9d296-a29c-7e96-d7ce-b3be945e2d71 "PDF" >}})
+Periodic waveforms, fourier series ({{% resource_link 66c9d296-a29c-7e96-d7ce-b3be945e2d71 "PDF" %}})
 
-MATLAB help sheet ({{< resource_link c89d6b54-2f7a-34eb-5c6f-33342a20c176 "PDF" >}})
+MATLAB help sheet ({{% resource_link c89d6b54-2f7a-34eb-5c6f-33342a20c176 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -51,7 +51,7 @@ MATLAB help sheet ({{< resource_link c89d6b54-2f7a-34eb-5c6f-33342a20c176 "PDF" 
 R3
 {{< tdclose >}}
 {{< tdopen >}}
-Periodicity ({{< resource_link 6533cd19-0b17-ad89-6f05-5390f5bf85d4 "PDF - 3.3 MB" >}})
+Periodicity ({{% resource_link 6533cd19-0b17-ad89-6f05-5390f5bf85d4 "PDF - 3.3 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +60,7 @@ Periodicity ({{< resource_link 6533cd19-0b17-ad89-6f05-5390f5bf85d4 "PDF - 3.3 M
 R4
 {{< tdclose >}}
 {{< tdopen >}}
-Periodicity, spectrum of aperiodic functions, basis functions, D-to-C conversion ({{< resource_link b338e7dd-431d-89ff-d1c6-3e77fd868bb9 "PDF" >}})
+Periodicity, spectrum of aperiodic functions, basis functions, D-to-C conversion ({{% resource_link b338e7dd-431d-89ff-d1c6-3e77fd868bb9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +69,7 @@ Periodicity, spectrum of aperiodic functions, basis functions, D-to-C conversion
 R5
 {{< tdclose >}}
 {{< tdopen >}}
-C-to-D conversion, folding, aliasing, resampling, unsharp mask, psychoacoustics ({{< resource_link 1bb9e76a-affe-d02e-9ea8-fe93ddd69a90 "PDF" >}})
+C-to-D conversion, folding, aliasing, resampling, unsharp mask, psychoacoustics ({{% resource_link 1bb9e76a-affe-d02e-9ea8-fe93ddd69a90 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +78,7 @@ C-to-D conversion, folding, aliasing, resampling, unsharp mask, psychoacoustics 
 R6
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction to information theory, Markov processes, entropy coding ({{< resource_link 4ff57516-c6b8-c666-4992-952b49d870ed "PDF" >}})
+Introduction to information theory, Markov processes, entropy coding ({{% resource_link 4ff57516-c6b8-c666-4992-952b49d870ed "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -87,7 +87,7 @@ Introduction to information theory, Markov processes, entropy coding ({{< resour
 R7
 {{< tdclose >}}
 {{< tdopen >}}
-Noisy channels, repeat rodes, Hamming code error correction ({{< resource_link cabdc1fc-4617-6360-2ea8-c13432503e1f "PDF" >}})
+Noisy channels, repeat rodes, Hamming code error correction ({{% resource_link cabdc1fc-4617-6360-2ea8-c13432503e1f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +106,7 @@ R8
 
 Quiz review
 
-FIR filters, impulse response, convolution, block diagrams ({{< resource_link ee27328f-66c3-c7c0-63ea-a392474bca76 "PDF" >}})
+FIR filters, impulse response, convolution, block diagrams ({{% resource_link ee27328f-66c3-c7c0-63ea-a392474bca76 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -117,7 +117,7 @@ FIR filters, impulse response, convolution, block diagrams ({{< resource_link ee
 R9
 {{< tdclose >}}
 {{< tdopen >}}
-FIR filters, impulse response, convolution review, frequency response ({{< resource_link 469837e1-f430-1c9c-a404-7cef7a915278 "PDF" >}})
+FIR filters, impulse response, convolution review, frequency response ({{% resource_link 469837e1-f430-1c9c-a404-7cef7a915278 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +126,7 @@ FIR filters, impulse response, convolution review, frequency response ({{< resou
 R10
 {{< tdclose >}}
 {{< tdopen >}}
-Frequency response, system response, Z-transform ({{< resource_link 0198b00b-c42f-ba1a-b39d-aaa278108a35 "PDF - 1.1 MB" >}})
+Frequency response, system response, Z-transform ({{% resource_link 0198b00b-c42f-ba1a-b39d-aaa278108a35 "PDF - 1.1 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,7 +135,7 @@ Frequency response, system response, Z-transform ({{< resource_link 0198b00b-c42
 R11
 {{< tdclose >}}
 {{< tdopen >}}
-Inverse Z-transform, zeros, partial fraction expansion, long division, DFT, FFT ({{< resource_link 772afa66-726a-50bd-0924-52fd9ba53ac2 "PDF - 1.3 MB" >}})
+Inverse Z-transform, zeros, partial fraction expansion, long division, DFT, FFT ({{% resource_link 772afa66-726a-50bd-0924-52fd9ba53ac2 "PDF - 1.3 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +144,7 @@ Inverse Z-transform, zeros, partial fraction expansion, long division, DFT, FFT 
 R12
 {{< tdclose >}}
 {{< tdopen >}}
-Phase, equivalent system representation, filter design, windows, and cepstrum analysis ({{< resource_link 11a8dc9f-d243-2487-135d-e7ef21f81b17 "PDF - 2.7 MB" >}})
+Phase, equivalent system representation, filter design, windows, and cepstrum analysis ({{% resource_link 11a8dc9f-d243-2487-135d-e7ef21f81b17 "PDF - 2.7 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
