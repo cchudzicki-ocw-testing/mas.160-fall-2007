@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Recitation 9
 uid: 469837e1-f430-1c9c-a404-7cef7a915278
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

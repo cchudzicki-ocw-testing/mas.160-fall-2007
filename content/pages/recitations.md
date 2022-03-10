@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Recitations
 uid: 0317afcf-405b-1429-4921-d58a21496710
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 These notes are by Dr. Quinn Smithwick, the course teaching assistant.

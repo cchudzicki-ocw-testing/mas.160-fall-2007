@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Yet more notes on partial fraction expansion Revised Edition
 uid: e1d0af0a-fe69-7e8f-48bf-2b582508fb67
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

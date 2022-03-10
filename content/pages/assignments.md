@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: 556852e9-a999-09f6-77a8-fcf67d503d61
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Graduate students enrolled in MAS.510/MAS.511 complete additional problems in some of the problem sets.

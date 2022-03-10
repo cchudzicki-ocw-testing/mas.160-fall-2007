@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Modulation
 uid: 7df297c0-c228-664d-ad63-91e7c325cbbf
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

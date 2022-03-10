@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Problem Set 8 Hints
 uid: 5a97db63-f953-5b65-25be-f322ea2172a0
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

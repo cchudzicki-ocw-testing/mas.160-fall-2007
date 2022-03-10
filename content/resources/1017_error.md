@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Error-Correcting Codes
 uid: 94144b6c-c83d-f4be-a4f9-cef22c91baf4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
