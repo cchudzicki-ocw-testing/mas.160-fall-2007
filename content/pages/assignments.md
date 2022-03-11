@@ -21,8 +21,8 @@ Problem set 3 ({{% resource_link 64205806-53d8-6721-0910-14312bc69ed5 "PDF" %}})
 
 Problem set 4 ({{% resource_link bc45046e-3a8d-aad2-bd83-61f7f09ef8dc "PDF" %}})
 
-> Letter frequences ([TXT](/courses/media-arts-and-sciences/mas-160-signals-systems-and-information-for-media-technology-fall-2007/assignments/ps4_freq.txt))  
-> mask.m ([M](/courses/media-arts-and-sciences/mas-160-signals-systems-and-information-for-media-technology-fall-2007/assignments/ps4_mask.m))
+> Letter frequences ({{% resource_link 72857097-52a6-fe11-9eec-8464d51bc999 "TXT" %}})  
+> mask.m ({{% resource_link 9b31a985-f298-4fb7-1394-326cdcade4d2 "M" %}})
 
 Problem set 5 ({{% resource_link 58ae2d88-f324-ffcd-0c22-746e7394b0c2 "PDF" %}})
 
