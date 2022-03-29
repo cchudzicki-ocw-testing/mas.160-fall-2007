@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 9d8ab809-13c0-2739-bcc1-42335cfb478b
 resourcetype: Document
 title: Yet more notes on partial fraction expansion Revised Edition
 uid: e1d0af0a-fe69-7e8f-48bf-2b582508fb67

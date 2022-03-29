@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
+parent_uid: 0317afcf-405b-1429-4921-d58a21496710
 resourcetype: Document
 title: MATLAB help sheet
 uid: c89d6b54-2f7a-34eb-5c6f-33342a20c176

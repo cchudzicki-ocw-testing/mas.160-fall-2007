@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 9d8ab809-13c0-2739-bcc1-42335cfb478b
 resourcetype: Document
 title: Modulation
 uid: 7df297c0-c228-664d-ad63-91e7c325cbbf

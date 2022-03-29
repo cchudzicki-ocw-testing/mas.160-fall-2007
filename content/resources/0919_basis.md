@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 9d8ab809-13c0-2739-bcc1-42335cfb478b
 resourcetype: Document
 title: Basis functions and transforms
 uid: c9d17ae8-2425-e19a-0a68-764e96b8a60c
