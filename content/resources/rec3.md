@@ -2,7 +2,7 @@
 content_type: resource
 description: Recitation notes on composite signals, spectrum, Fourier series, Harmonic
   sinusoids, and clipped sinewaves.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007/6533cd190b17ad896f055390f5bf85d4_rec3.pdf
+file: /courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007/6533cd190b17ad896f055390f5bf85d4_rec3.pdf
 file_type: application/pdf
 learning_resource_types:
 - Recitations
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Recitation notes on composite signals, spectrum, Fourier series, Harmonic sinusoids, and clipped sinewaves.

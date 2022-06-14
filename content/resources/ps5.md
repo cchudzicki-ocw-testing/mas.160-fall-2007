@@ -2,7 +2,7 @@
 content_type: resource
 description: Problem set on unit-step and running average, convolution, time-domain
   response of FIR filter, LTI systems, and block diagrams.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007/58ae2d88f324ffcd0c22746e7394b0c2_ps5.pdf
+file: /courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007/58ae2d88f324ffcd0c22746e7394b0c2_ps5.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Problem set on unit-step and running average, convolution, time-domain response of FIR filter, LTI systems, and block diagrams.

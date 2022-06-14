@@ -2,7 +2,7 @@
 content_type: resource
 description: Recitation notes on FIR filters, impulse response, convolution, and frequency
   response.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007/469837e1f4301c9ca4047cef7a915278_rec9.pdf
+file: /courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007/469837e1f4301c9ca4047cef7a915278_rec9.pdf
 file_type: application/pdf
 learning_resource_types:
 - Recitations
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Recitation notes on FIR filters, impulse response, convolution, and frequency response.

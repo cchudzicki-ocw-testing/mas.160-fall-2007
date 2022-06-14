@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on basis functions and transforms.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007/c9d17ae82425e19a0a68764e96b8a60c_0919_basis.pdf
+file: /courses/mas-160-signals-systems-and-information-for-media-technology-fall-2007/c9d17ae82425e19a0a68764e96b8a60c_0919_basis.pdf
 file_type: application/pdf
 learning_resource_types:
 - Readings
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Lecture notes on basis functions and transforms.
