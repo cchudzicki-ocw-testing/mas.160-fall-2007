@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, additional
+  assignments for graduate credit, prerequisites, texts, computer facilities, exams,
+  grading, collaboration policies, late homework, and the schedule of lecture topics
+  and key dates for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

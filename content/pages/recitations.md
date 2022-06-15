@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides schedule of recitation topics and notes by Dr.
+  Quinn Smithwick, the course teaching assistant.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection
